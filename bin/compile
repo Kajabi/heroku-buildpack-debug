@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-sudo apt update
-sudo apt install vim net-tools tmux
+apt update
+apt install vim net-tools tmux
